@@ -18,15 +18,6 @@ Content-based movie recommendation system using NLP preprocessing and TF-IDF vec
 
 ## Project structure
 
-```text
-.
-├── src/
-│   ├── preprocess.py
-│   └── recommender.py
-├── main.py
-├── Movie_data.csv
-├── README.md
-└── spn12_project.ipynb
 
 ## How to run
 
@@ -42,6 +33,5 @@ Movie2
 Movie3
 Movie4
 Movie5
-
 
 
