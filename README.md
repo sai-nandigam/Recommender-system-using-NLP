@@ -27,3 +27,23 @@ Content-based movie recommendation system using NLP preprocessing and TF-IDF vec
 ├── Movie_data.csv
 ├── README.md
 └── spn12_project.ipynb
+
+## How to run
+
+```bash
+pip install pandas scikit-learn
+python main.py
+
+
+---
+
+## 2️⃣ Add Example Output (VERY IMPORTANT)
+
+This shows your project actually works.
+
+Add:
+
+```markdown
+## Example
+
+
