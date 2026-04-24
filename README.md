@@ -34,16 +34,14 @@ Content-based movie recommendation system using NLP preprocessing and TF-IDF vec
 pip install pandas scikit-learn
 python main.py
 
+Enter movie name: Inception
 
----
+Recommended movies:
+Movie1
+Movie2
+Movie3
+Movie4
+Movie5
 
-## 2️⃣ Add Example Output (VERY IMPORTANT)
-
-This shows your project actually works.
-
-Add:
-
-```markdown
-## Example
 
 
