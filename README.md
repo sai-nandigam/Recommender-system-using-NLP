@@ -15,8 +15,8 @@ Content-based movie recommendation system using NLP preprocessing and TF-IDF vec
 - NLP
 - TF-IDF
 - Cosine Similarity
-
 ## Project structure
+
 
 
 ## How to run
