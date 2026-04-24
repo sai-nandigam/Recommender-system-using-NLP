@@ -16,15 +16,16 @@ Content-based movie recommendation system using NLP preprocessing and TF-IDF vec
 - TF-IDF
 - Cosine Similarity
 ## Project structure
-'''
+```
+.
 ├── src/
-│ ├── preprocess.py
-│ └── recommender.py
+│   ├── preprocess.py
+│   └── recommender.py
 ├── main.py
 ├── Movie_data.csv
 ├── README.md
 └── spn12_project.ipynb
-'''
+```
 
 
 ## How to run
