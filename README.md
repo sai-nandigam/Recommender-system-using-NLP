@@ -1,18 +1,29 @@
-
 # NLP Recommendation System (TF-IDF)
 
-Content-based recommendation system using NLP preprocessing and TF-IDF vectorization to recommend similar items based on text.
+Content-based movie recommendation system using NLP preprocessing and TF-IDF vectorization.
 
 ## What it does
-- Cleans text (stopword removal, normalization)
+- Cleans movie descriptions
 - Builds TF-IDF vectors
-- Computes similarity (cosine similarity)
-- Returns top-N recommendations for a given item
+- Computes cosine similarity
+- Returns top-5 similar movie recommendations
 
 ## Tech stack
 - Python
-- Pandas / NumPy
-- scikit-learn (TF-IDF)
-- WordCloud (EDA)
+- Pandas
+- scikit-learn
+- NLP
+- TF-IDF
+- Cosine Similarity
 
 ## Project structure
+
+```text
+.
+├── src/
+│   ├── preprocess.py
+│   └── recommender.py
+├── main.py
+├── Movie_data.csv
+├── README.md
+└── spn12_project.ipynb
